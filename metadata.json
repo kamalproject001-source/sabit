@@ -1,0 +1,6 @@
+{
+  "name": "tataruang.in",
+  "description": "Platform Konsultasi Digital Tata Ruang Nusantara Berbasis Kearifan Lokal untuk Permukiman Berkelanjutan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
